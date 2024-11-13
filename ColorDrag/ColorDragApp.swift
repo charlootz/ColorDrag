@@ -11,7 +11,7 @@ import SwiftUI
 struct ColorDragApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ColorPicker()
         }
     }
 }
